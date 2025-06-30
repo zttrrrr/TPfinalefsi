@@ -38,7 +38,7 @@ const Productos = () => {
       
       {productos.length === 0 ? (
         <div className="alert alert-info">
-          No hay productos disponibles en esta categoría.
+       No products avalaible.
         </div>
       ) : (
         <div className="row">
