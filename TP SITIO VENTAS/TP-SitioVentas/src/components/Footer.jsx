@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="col-md-4 mb-3">
             <h5>TechMobile</h5>
             <p className="text-white">
-              Tu tienda de confianza para los mejores celulares del mercado.
+              los mejores celulares del mercado
             </p>
           </div>
           <div className="col-md-4 mb-3">
@@ -20,7 +20,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="col-md-4 mb-3">
-            <h5>Síguenos</h5>
+            <h5>Echale un vistazo</h5>
             <div className="d-flex gap-3">
               <a href="#" className="text-white"><FaFacebook size={20} /></a>
               <a href="#" className="text-white"><FaInstagram size={20} /></a>
@@ -31,7 +31,7 @@ const Footer = () => {
         </div>
         <hr className="my-4 bg-secondary" />
         <div className="text-center text-muted">
-          <small>&copy; {new Date().getFullYear()} TechMobile - Todos los derechos reservados</small>
+          <small>&copy; {new Date().getFullYear()} TechMobile - All Rights reserved</small>
         </div>
       </div>
     </footer>
